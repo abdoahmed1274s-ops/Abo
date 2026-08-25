@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Action Downloader</string>
+    <string name="app_name_ar">أكشن داونلودر</string>
+    <string name="app_tagline">التحميل السينمائي السريع للميديا والفيديو</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_active">جاري التحميل</string>
+    <string name="nav_downloads">التنزيلات</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Home Screen -->
+    <string name="url_placeholder">الصق رابط الفيديو هنا (MP4, Direct Link, WebM...)</string>
+    <string name="btn_download">تحميل</string>
+    <string name="btn_analyze">فحص الرابط</string>
+    <string name="btn_paste">لصق</string>
+    <string name="btn_clear">مسح</string>
+    <string name="sample_links_title">روابط تجريبية مصرح بها</string>
+    <string name="recent_downloads_title">أحدث التنزيلات</string>
+    <string name="no_recent_downloads">لا توجد تنزيلات حديثة بعد</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="analyzing_url">جاري فحص الرابط واكتشاف الجودات المتاحة…</string>
+    <string name="url_empty_error">يرجى إدخال رابط فيديو صالح</string>
+    <string name="url_invalid_error">الرابط غير مدعوم أو غير متاح للتحميل المباشر</string>
+
+    <!-- Quality Selection & Options -->
+    <string name="media_info_title">تفاصيل وسائط الفيديو</string>
+    <string name="select_quality">جودة الفيديو</string>
+    <string name="media_format">الصيغة</string>
+    <string name="estimated_size">الحجم التقديري</string>
+    <string name="source_website">الموقع المصدر</string>
+    <string name="start_download">بدء التحميل الآن</string>
+    <string name="cancel">إلغاء</string>
+    <string name="quality_1080p">1080p (Full HD)</string>
+    <string name="quality_720p">720p (HD)</string>
+    <string name="quality_480p">480p (SD)</string>
+    <string name="quality_360p">360p (توفير البيانات)</string>
+    <string name="quality_audio">صوت فقط (MP3/AAC)</string>
+
+    <!-- Download Progress & States -->
+    <string name="status_queued">في الانتظار</string>
+    <string name="status_downloading">جاري التحميل</string>
+    <string name="status_paused">متوقف مؤقتاً</string>
+    <string name="status_completed">اكتمل التحميل</string>
+    <string name="status_failed">فشل التحميل</string>
+    <string name="status_cancelled">تم الإلغاء</string>
+    <string name="btn_pause">إيقاف مؤقت</string>
+    <string name="btn_resume">استئناف</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_retry">إعادة المحاولة</string>
+    <string name="download_speed">السرعة</string>
+    <string name="time_remaining">الوقت المتبقي</string>
+    <string name="active_downloads_empty">لا توجد عمليات تحميل نشطة حالياً</string>
+
+    <!-- Downloads Library -->
+    <string name="downloads_title">المكتبة والتنزيلات</string>
+    <string name="search_downloads_hint">بحث في التنزيلات…</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_videos">فيديو</string>
+    <string name="filter_audio">صوتيات</string>
+    <string name="btn_open">فتح وتشغيل</string>
+    <string name="btn_share">مشاركة</string>
+    <string name="btn_delete">حذف</string>
+    <string name="delete_confirm_title">حذف الملف</string>
+    <string name="delete_confirm_msg">هل أنت متأكد من رغبتك في حذف هذا الملف نهائياً من جهازك؟</string>
+    <string name="confirm">تأكيد</string>
+    <string name="downloads_empty">لم تقم بتنزيل أي ملف بعد</string>
+    <string name="file_not_found">تعذر العثور على الملف في الذاكرة</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="setting_storage_location">موقع الحفظ</string>
+    <string name="setting_default_quality">الجودة الافتراضية</string>
+    <string name="setting_wifi_only">التحميل عبر Wi-Fi فقط</string>
+    <string name="setting_wifi_only_desc">تجنب استهلاك باقة البيانات الخلوية</string>
+    <string name="setting_notifications">إشعارات التنزيل</string>
+    <string name="setting_notifications_desc">إشعار عند اكتمال أو فشل التحميل</string>
+    <string name="setting_dark_theme">المظهر السينمائي الداكن</string>
+    <string name="setting_clear_history">مسح سجل التنزيلات</string>
+    <string name="setting_clear_history_desc">حذف السجلات مع الإبقاء على الملفات</string>
+    <string name="setting_about">حول Action Downloader</string>
+    <string name="setting_version">الإصدار 1.0.0 (Cinematic Edition)</string>
+    <string name="legal_disclaimer_title">إخلاء المسؤولية القانونية</string>
+    <string name="legal_disclaimer_content">أكشن داونلودر مخصص لتنزيل الوسائط المصرح بها قانونياً أو التابعة للملك العام أو التي يملك المستخدم حقوقها. لا يقوم التطبيق بتجاوز أنظمة التشفير أو الحماية الرقمية (DRM) أو المحتوى الخاص المدفوع. تقع مسؤولية احترام حقوق النشر على المستخدم.</string>
+
+    <!-- Player Modal -->
+    <string name="player_title">مشغل الميديا المدمج</string>
+    <string name="close">إغلاق</string>
+</resources>

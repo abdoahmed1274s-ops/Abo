@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cinema_gold">#FFD54F</color>
+    <color name="cinema_amber">#FFB300</color>
+    <color name="cinema_bg_dark">#0F1115</color>
+    <color name="cinema_surface_dark">#181B20</color>
+    <color name="cinema_card_dark">#21252D</color>
+    <color name="cinema_accent_red">#E53935</color>
+    <color name="cinema_cyan">#26C6DA</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
